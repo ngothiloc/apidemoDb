@@ -1,0 +1,37 @@
+{
+  "users": [
+     {
+      "id": "1",
+      "name": "Lã Tuấn",
+      "email": "latuan2k6@gmail.com",
+      "username": "latuan2k6",
+      "password": "123123"
+    },
+    {
+      "id": "2",
+      "name": "Davit Sang",
+      "email": "davitsang2k5@gmail.com",
+      "username": "davitsang2k5",
+      "password": "123123"
+    },
+    {
+      "id": "3",
+      "name": "Ngo Loc",
+      "email": "ngoloc2k4@gmail.com",
+      "username": "ngoloc2k4",
+      "password": "123123"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "title": "Bài đăng 1",
+      "content": "Nội dung bài đăng 1 nằm ở đây"
+    },
+    {
+      "id": "2",
+      "title": "Bài đăng 2",
+      "content": "Nội dung bài đăng 2 nằm ở đây"
+    }
+  ]
+}
